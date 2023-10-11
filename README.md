@@ -24,29 +24,29 @@
 - Platform partnerships
 
 ## Project Timeline
-- **Milestone 1: Project Initiation (21 days)**
+- **Milestone 1: Project Initiation**
   - Tasks: Project Planning, Team Formation, Requirements Gathering
-  - Deliverables: Project Plan, Project Team, Requirements Document
 
-- **Milestone 2: WebApp Development (60 days)**
+
+- **Milestone 2: WebApp Development**
   - Tasks: WebApp Design, Database Development, User Authentication System
-  - Deliverables: UI/UX Designs, Database Schema, User Authentication Module
 
-- **Milestone 3: Core Functionality (45 days)**
+
+- **Milestone 3: Core Functionality**
   - Tasks: Core Functionality Implementation, Blockchain Integration, Testing and Quality Assurance
-  - Deliverables: Functional WebApp, Blockchain Integration Report, Testing and QA Documentation
 
-- **Milestone 4: Feature Integration (30 days)**
+
+- **Milestone 4: Feature Integration**
   - Tasks: Reputation System Integration, Crowdfunding Features Development, Analytics Integration
-  - Deliverables: Reputation System, Crowdfunding Module, Analytics Dashboard
 
-- **Milestone 5: Finalization (21 days)**
+
+- **Milestone 5: Finalization**
   - Tasks: Marketplace Setup, Premium Features Development, Final Testing and Bug Fixes
-  - Deliverables: Marketplace Launch, Premium Features, Final Testing Report
+
 
 ## Project Details
 - Total number of tasks: 15
-- Total number of deliverables: 15
+
 - Deadline: Wed Oct 18 2023 00:00:00 GMT+0530 (India Standard Time)
 - Priority: High
 
