@@ -24,28 +24,76 @@
 - Platform partnerships
 
 ## Project Timeline
-- **Milestone 1: Project Initiation**
-  - Tasks: Project Planning, Team Formation, Requirements Gathering
 
+**Milestone 1: Day 1 - User Registration and Profiles**
+   - Task 1: Design user registration and profile interface
+   - Task 2: Implement user registration functionality
+   - Task 3: Create multi-level user profiles
+   - Task 4: Collect and store user data
+   - Task 5: Set up basic authentication and authorization
+   - Task 6: Test user registration and profiles
+   - Task 7: Prepare documentation and user guides
+   - Milestone 1 Completion: End of Day 1
 
-- **Milestone 2: WebApp Development**
-  - Tasks: WebApp Design, Database Development, User Authentication System
+**Milestone 2: Day 2 - Blockchain Technology and Token System**
+   - Task 1: Research and select a blockchain technology
+   - Task 2: Integrate blockchain for transactions
+   - Task 3: Create a blockchain token system
+   - Task 4: Implement blockchain security
+   - Task 5: Test blockchain integration
+   - Task 6: Prepare documentation and user guides
+   - Milestone 2 Completion: End of Day 2
 
+**Milestone 3: Day 3 - Tournament Management**
+   - Task 1: Design tournament management tools
+   - Task 2: Develop scheduling and registration features
+   - Task 3: Implement real-time match updates
+   - Task 4: Set up tamper-proof scoring using blockchain
+   - Task 5: Test tournament management features
+   - Task 6: Prepare documentation and user guides
+   - Milestone 3 Completion: End of Day 3
 
-- **Milestone 3: Core Functionality**
-  - Tasks: Core Functionality Implementation, Blockchain Integration, Testing and Quality Assurance
+**Milestone 4: Day 4 - Player Reputation System**
+   - Task 1: Design and implement reputation system
+   - Task 2: Develop a reputation-based ranking system
+   - Task 3: Test the reputation system
+   - Task 4: Prepare documentation and user guides
+   - Milestone 4 Completion: End of Day 4
 
+**Milestone 5: Day 5 - Crowdfunding and Sponsorship**
+   - Task 1: Create a crowdfunding module
+   - Task 2: Implement smart contracts for secure funding
+   - Task 3: Test crowdfunding and sponsorship features
+   - Task 4: Prepare documentation and user guides
+   - Milestone 5 Completion: End of Day 5
 
-- **Milestone 4: Feature Integration**
-  - Tasks: Reputation System Integration, Crowdfunding Features Development, Analytics Integration
+**Milestone 6: Day 6 - Cricket Gear Marketplace**
+   - Task 1: Build an e-commerce platform
+   - Task 2: Implement token-based purchases
+   - Task 3: Add products to the marketplace
+   - Task 4: Test e-commerce functionality
+   - Task 5: Prepare documentation and user guides
+   - Milestone 6 Completion: End of Day 6
 
+**Milestone 7: Day 7 - Analytics, Premium Features, and Advertising**
+   - Task 1: Develop analytics tools
+   - Task 2: Design premium subscription features
+   - Task 3: Implement ad management and payment systems
+   - Task 4: Test analytics, premium features, and advertising
+   - Task 5: Prepare documentation and user guides
+   - Milestone 7 Completion: End of Day 7
 
-- **Milestone 5: Finalization**
-  - Tasks: Marketplace Setup, Premium Features Development, Final Testing and Bug Fixes
+**Milestone 8: Day 8 - Platform Partnerships and Grading System**
+   - Task 1: Establish partnerships with cricket associations and brands
+   - Task 2: Develop modules for managing partnerships
+   - Task 3: Create a tamper-proof grading system
+   - Task 4: Ensure data integrity using blockchain
+   - Task 5: Test partnership and grading features
+   - Task 6: Prepare documentation and user guides
+   - Milestone 8 Completion: End of Day 8
 
 
 ## Project Details
-- Total number of tasks: 15
 
 - Deadline: Wed Oct 18 2023 00:00:00 GMT+0530 (India Standard Time)
 - Priority: High
